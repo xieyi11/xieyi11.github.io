@@ -4,7 +4,7 @@ title: A Example Post by xieyi
 date: 2021-02-16 00:12:40 +0800
 category: tutorial for blog
 thumbnail: /style/image/thumbnail.jpg
-icon: book
+icon: note
 ---
 
 
@@ -13,12 +13,20 @@ icon: book
 
 ## Mechine Learning
 
-page...
+decision tree
+
+random forest
 
 ## NLP
 
-add the thumbnail url
+word embedding
 
-## Math (Statistics)
+LDA topic model
 
-such as book, code, web, chat, note, game, link, design, image
+Siamese Network
+
+## Math (Statistics/optimization)
+
+beta distribution
+
+SGD
