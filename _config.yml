@@ -1,25 +1,15 @@
-# Site settings ...
-uri: domain.com
-url: https://domain.com
-name: Your name
-title: Mangan Jekyll Theme
-email: example@domain.com
-author: username
-keywords: "Your, Keyword, Here"
-description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione nihil, velit odio quia autem quos. Natus itaque sint, nisi fuga dolorum. Iste ea cumque, aliquam dignissimos vitae labore atque minima?"
-social_username: username
+# Site settings
+title: Your awesome title
+motto: Your motto
+email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: jekyllrb
+github_username:  jekyll
 
-# Build settings ...
-sass:
-  style: compressed
+# Build settings
 markdown: kramdown
-paginate: 5
-permalink: /post/:title
-paginate_path: "/page/:num/"
-exclude:
-  - README.md
-
-# Plugins ...
-plugins:
-  - jekyll-paginate
-  - jemoji
