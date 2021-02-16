@@ -2,7 +2,7 @@
 layout: post
 title:  "from beta distribution to LDA"
 date:   2015-04-09 11:23:32
-categories: record
+categories: NLP
 ---
 this blog is used to record what i have learned recently
 
