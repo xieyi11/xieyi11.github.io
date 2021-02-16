@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Site settings
 title: Your awesome title
 motto: Your motto
@@ -13,3 +14,6 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
+=======
+theme: jekyll-theme-slate
+>>>>>>> parent of ca117cd (model)
