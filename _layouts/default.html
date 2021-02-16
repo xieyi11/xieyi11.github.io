@@ -1,15 +1,34 @@
 <!DOCTYPE html>
 <html>
-
+  <head>
+      
   {% include head.html %}
 
-<body class="bg-grey" gtools_scp_screen_capture_injected="true">
+  {% if site.google-analytics %}
+  {% include google-analytics.html %}
+  {% endif %}
 
-    {% include header.html %}
+  {% if page.url == "/404.html" %}
+  <meta http-equiv="refresh" content="10; url={{ site.baseurl }}">
+  {% endif %}
 
-    {{ content }}
-    
+  </head>
+
+  <body>
+
+  {% include header.html %}
+
+  <div class="wrapper">
+        {{ content }}
+  </div>
+
+</body>
+
+<foot>
+
     {% include footer.html %}
+    {% include foot.html %}
 
-  </body>
+</foot>
+
 </html>
