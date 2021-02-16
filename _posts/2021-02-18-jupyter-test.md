@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "random forest"
+title:  "random forest by skicit-learn"
 date:   2021-02-17 11:23:32
 categories: ML
 ---
