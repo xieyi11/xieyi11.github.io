@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "decision tree and random forest by skicit-learn"
+title:  "decision tree / random forest by skicit-learn"
 date:   2021-02-17 11:23:32
 categories: ML
 ---
@@ -1475,7 +1475,7 @@ plt.show()
 ```
 
 
-![output_20_0](output_20_0.png)
+![output_20_0](./images/output_20_0.png)
 
 
 # 随机森林
