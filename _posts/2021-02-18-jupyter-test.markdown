@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "from beta distribution to LDA"
+title:  "random forest"
 date:   2021-02-17 11:23:32
-categories: NLP
+categories: ML
 ---
 
 
