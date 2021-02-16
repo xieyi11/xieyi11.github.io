@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to xieyi's homepage"
+title:  "Welcome to xieyi's"
 date:   2015-04-09 11:23:32
 categories: record
 ---
