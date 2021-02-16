@@ -1,0 +1,10 @@
+---
+layout: {{ layout }}
+title: "{{ title }}"
+date: {{ date }}
+author: username
+sitemap: true
+keywords: ""
+description: ""
+---
+<!--more-->

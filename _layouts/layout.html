@@ -4,9 +4,10 @@
 <body>
 {% include header.html %}
 <div class="page-content">
-  <div class="wrapper">
+  <div class="wrapper-fit">
 {{ content }}
   </div>
+  {% include nav.html %}
 </div>
 {% include footer.html %}
 <script src="{{ '/js/main.js' | relative_url }}"></script>
