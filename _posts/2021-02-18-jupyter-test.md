@@ -1475,7 +1475,7 @@ plt.show()
 ```
 
 
-![image](https://github.com/xieyi11/xieyi11.github.io/blob/main/_posts/imgs/output_20_0.png)
+![image](https://github.com/xieyi11/xieyi11.github.io/raw/main/_posts/imgs/output_20_0.png)
 
 
 # 随机森林
