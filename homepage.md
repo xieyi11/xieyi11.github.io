@@ -1,6 +1,3 @@
-date:   2021-02-15 11:23:32
-categories: record
-
 # "Welcome to xieyi's"
 
 ![CI](https://github.com/rundocs/jekyll-rtd-theme/workflows/CI/badge.svg?branch=develop)
