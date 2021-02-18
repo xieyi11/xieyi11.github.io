@@ -29,3 +29,6 @@ _sass/@primer/css/**/*.md
 
 # action
 action.changelog.md
+/*.bak
+*.bak
+/Meachine Learning/README.md.bak
