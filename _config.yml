@@ -1,26 +1,19 @@
 # Site settings
-name: Less Or More
-email: luoyan35714@126.com
-author: Freud Kang
-url: http://www.hifreud.com
-resume_site: http://www.hifreud.com/Resume.io/
-github: https://github.com/luoyan35714/
-baseurl: "/LessOrMore"
-description: Actually, less is more!
-meta_description: 康志华;个人博客;学而不思则罔;思而不学则殆;生命不止;折腾不休
-motto: It's our wits that make us men.
-banner: 学而不思则罔，思而不学则殆。
+title: Nice Blog
+name: Nice Blog # your name
+email: youremail@example.com # your email address
+description: >
+    A Simple Jekyll Blog Theme. # this means to ignore newlines until "baseurl:"
+baseurl: "/Nice_Blog" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+twitter_username: # your Twitter username
+github_username: # your Github username
+disqus_username: # your disqus username
 
-#permalink: /:categories/:year/:month/:day/:title/
-permalink: /:year/:month/:day/:title/
-paginate: 10
+google-analytics: # add it if you have one
 
-exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
-
-github_username: luoyan35714
+skillstree: true # turn on or off the skills tree in about page
 
 # Build settings
+permalink: none
 markdown: kramdown
-
-baidu_analysis: 94be4b0f9fc5d94cc0d0415ea6761ae9
-
